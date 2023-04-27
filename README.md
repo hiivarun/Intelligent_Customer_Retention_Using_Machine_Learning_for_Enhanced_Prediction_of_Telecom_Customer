@@ -1,0 +1,3 @@
+# Intelligent_Customer_Retention_Using_Machine_Learning_for_Enhanced_Prediction_of_Telecom_Customer
+Demo video link
+https://drive.google.com/file/d/1EK_E73cZ5PMcHckOvOqplGMjlQkZHQyl/view?usp=share_link
